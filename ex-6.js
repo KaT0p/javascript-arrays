@@ -1,5 +1,6 @@
 const student = {
   name: "John Doe",
+  age: 18,
   grade: 12,
   subjects: ["Math", "Science", "History"],
 };
